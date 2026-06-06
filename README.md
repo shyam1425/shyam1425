@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shyam1425/shyam1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shyam
 
-Here are some ideas to get you started:
+**ML & AI enthusiast · Python developer · Final year student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-v-727386334/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](shyam.demonking@gmail.com)
+
+</div>
+
+---
+
+### About me
+
+I'm a final-year CS student transitioning into the industry, focused on **Machine Learning and AI**. I enjoy building intelligent systems — from speech and text processing to building detectors that solve real-world problems.
+
+Currently open to **entry-level ML/AI roles** and exciting projects.
+
+---
+
+### 🛠 Tech stack
+
+**Languages & Core**
+`Python` `NumPy` `Pandas` `Scikit-learn`
+
+**ML / AI**
+`NLP` `Speech Recognition` `Text Classification` `Model Training`
+
+**Tools**
+`Git` `Jupyter` `VS Code`
+
+---
+
+### 📌 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [speech_recognition](https://github.com/shyam1425/speech_recognition) | Detects and validates spoken words/speech input | Python, SpeechRecognition |
+| [Spam_message](https://github.com/shyam1425/Spam_message) | Classifies messages as spam or legitimate | Python, NLP |
+| [job_scam_detector](https://github.com/shyam1425/job_scam_detector) | Identifies fraudulent job postings | Python, ML |
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyam1425&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam1425&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+### 🌱 Currently
+
+- 📚 Deepening my understanding of deep learning and transformers
+- 🔍 Looking for ML/AI roles and internships
+- 🛠 Building more NLP and real-world detection projects
+
+---
+
+<div align="center">
+<sub>Open to collaboration · Let's build something meaningful</sub>
+</div>
